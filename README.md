@@ -9,7 +9,13 @@ This example is optimized for 50% English and 50% Finnish language, but the spre
 <br>
 ![Example](Finger_stress_example.png) <br>
 <br>
-The grid of the keyboard is also undesirable. None of the keys lie exactly above each other because the typewriter's levers were attached into the center of the keys.
+The grid of the keyboard is also undesirable. It is not designed symmetric hands in mind. None of the keys lie exactly above each other because the typewriter's lever arms were attached to the center of the keys. An ortholinear or columnar split keyboard is the most ergonomic solution, but even just the layout makes a huge difference, when the fingers do not move so much. <br>
+<br>
+
+The following picture shows the proposals for finger movement in classic Ten-finger system and a new custom layout. When using the system in the left picture, the left wrist is bent 90° to the side, the right hand is almost in the middle of the keyboard, and the right little finger has the most keys. 
+<br>
+
+
 ![Example](Finger_positioning.png) <br>
 
 

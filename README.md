@@ -1,5 +1,6 @@
 # Keyboard-Layout
-Designing a perfect keyboard layout. A spreadsheet tool included. <br>
+Designing a perfect keyboard layout. A [Spreadsheet tool](/Keymap_finger_load_public.ods) included. <br>
+
 <br>
 The traditional QWERTY computer keyboard is a relic straight from the mechanical typewriter. Today it is a major cause for repetitive strain injury and carpal tunnel syndrome, probably bested only by the mouse. <br>
 <br>
@@ -11,13 +12,10 @@ The following pictures show the proposals for finger movement in classic Ten-fin
 <br>
 It is easily shown that the QWERTY keyboard layout is far from optimal. The most used letters are scattered throughout the keyboard, and many recurring letter pairs are placed on the same finger. When the mechanical typewriter was designed this was an advantage - not having too fast typist, or the hammers of the keys stuck when the keys were hit too fast in succession. <br>
 <br>
-This example is optimized for 50% English and 50% Finnish language, but the spreadsheet tool can be fitted to any language and any weighting percentage. The QWERTY layout performs poorly regardless of the language. The starting point in this layout was the same as in the Dvorak layout; vovels and consonants ar on different hands. <br>
+This example is optimized for 50% English and 50% Finnish language, but the spreadsheet tool can be fitted to any language and any weighting percentage. The QWERTY layout performs poorly regardless of the language. The starting point in this layout was the same as in the Dvorak layout; vovels and consonants on different hands. <br>
 <br>
 ![Example](Finger_stress_example.png) <br>
 <br>
-
-<br>
-
 To make your own keyboard layout, you may use these: <br>
 
 Mac OS X: &nbsp; 

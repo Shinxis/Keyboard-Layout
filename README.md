@@ -1,6 +1,6 @@
 # Keyboard-Layout
 Designing a perfect keyboard layout. A SpreadSheet tool included. <br>
-* [Planck](/keyboards/planck/)
+[![Current Version](https://img.shields.io/github/tag/qmk/qmk_firmware.svg)](https://github.com/qmk/qmk_firmware/tags)
 <br>
 The traditional QWERTY computer keyboard is a relic straight from the mechanical typewriter. Today it is a major cause for repetitive strain injury and carpal tunnel syndrome, probably bested only by the mouse. <br>
 <br>

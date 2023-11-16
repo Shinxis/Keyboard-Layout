@@ -21,8 +21,8 @@ This example is optimized for 50% English and 50% Finnish language, but the spre
 To make your own keyboard layout, you may use these: <br>
 
 Mac OS X: &nbsp; Ukelele <br>
-Windows:  &nbsp;&nbsp; Microsoft Keyboard Layout Creator <br>
-Linux:    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+Windows:  &ensp; Microsoft Keyboard Layout Creator <br>
+Linux:    &emsp;
           Edit text files in /usr/share/X11/xkb/symbols/ <br>
 iOS:      &nbsp;&nbsp;&nbsp; MyKeyboard / MyKeyboard Pro by Quintschaf GbR (paid App, under 10 eur, but well worth it) <br>
 

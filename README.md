@@ -9,7 +9,7 @@ The following pictures show the proposals for finger movement in classic Ten-fin
 <br>
 ![Example](Finger_positioning.png) <br>
 <br>
-It is easily shown that the QWERTY keyboard layout is far from optimal. The most used letters are scattered throughout the keyboard, and many recurring letter pairs are placed on the same finger. when the mechanical typewriter was designed this was an advantage - not having too fast typist, or the hammers of the keys stuck when the keys were hit too fast in succession. <br>
+It is easily shown that the QWERTY keyboard layout is far from optimal. The most used letters are scattered throughout the keyboard, and many recurring letter pairs are placed on the same finger. When the mechanical typewriter was designed this was an advantage - not having too fast typist, or the hammers of the keys stuck when the keys were hit too fast in succession. <br>
 <br>
 This example is optimized for 50% English and 50% Finnish language, but the spreadsheet tool can be fitted to any language and any weighting percentage. The QWERTY layout performs poorly regardless of the language. The starting point in this layout was the same as in the Dvorak layout; vovels and consonants ar on different hands. <br>
 <br>
@@ -20,8 +20,8 @@ This example is optimized for 50% English and 50% Finnish language, but the spre
 
 To make your own keyboard layout, you may use these: <br>
 
-Mac OS X: Ukelele <br>
-Windows:  Microsoft Keyboard Layout Creator <br>
-Linux:    Edit text files in /usr/share/X11/xkb/symbols/ <br>
-iOS:      MyKeyboard / MyKeyboard Pro by Quintschaf GbR (paid App, under 10 eur, but well worth it) <br>
+Mac OS X: &nbsp; Ukelele <br>
+Windows:  &ensp; Microsoft Keyboard Layout Creator <br>
+Linux:    &emsp;Edit text files in /usr/share/X11/xkb/symbols/ <br>
+iOS:      &nbsp;&nbsp;&nbsp;&nbsp; MyKeyboard / MyKeyboard Pro by Quintschaf GbR (paid App, under 10 eur, but well worth it) <br>
 

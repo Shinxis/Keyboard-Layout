@@ -11,7 +11,7 @@ The following pictures show the proposals for finger movement in classic Ten-fin
 <br>
 It is easily shown that the QWERTY keyboard layout is far from optimal. The most used letters are scattered throughout the keyboard, and many recurring letter pairs are placed on the same finger. When the mechanical typewriter was designed this was an advantage - not having too fast typist, or the hammers of the keys stuck when the keys were hit too fast in succession. <br>
 <br>
-This example is optimized for 50% English and 50% Finnish language, but the spreadsheet tool can be fitted to any language and any weighting percentage. The QWERTY layout performs poorly regardless of the language. The starting point in this layout was the same as in the Dvorak layout; vovels and consonants on different hands. Mac version of the example layout is available here: [Shinxis-OSX.keylayout](./Shinxis-OSX.keylayout). <br>
+This example layout is optimized for 50% English and 50% Finnish language, but the spreadsheet tool can be fitted to any language and any weighting percentage. The QWERTY layout performs poorly regardless of the language. Here the starting point was the same as in Dvorak layout; vovels and consonants on different hands. Mac version of the example is here: [Shinxis-OSX.keylayout](./Shinxis-OSX.keylayout). <br>
 <br>
 ![Example](./Finger_stress_example.png) <br>
 <br>

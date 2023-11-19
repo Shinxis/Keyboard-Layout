@@ -1,4 +1,4 @@
-# Keyboard-Layout
+# Keyboard-Layout-Design
 Designing a perfect keyboard layout. A [SpreadSheet tool](./Keymap_finger_load_public.ods) included. <br>
 <br>
 The traditional QWERTY computer keyboard is a relic straight from the mechanical typewriter. Today it is a major cause for repetitive strain injury and carpal tunnel syndrome, probably bested only by the mouse. <br>

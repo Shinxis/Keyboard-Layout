@@ -22,7 +22,7 @@ To make your own keyboard layout, you may use these applications/methods:<br>
 - iOS:      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MyKeyboard / MyKeyboard Pro by Quintschaf GbR (paid App, under 10 eur, but well worth it)<br>
 <br>
 Personal experiences:<br>
-- Learning a new layout can take time, but it is worth it:<br>
+- Learning a new layout can take time, but it is worth it.<br>
 - The layouts do NOT get mixed up. It's like two different languages. You can even practice the new layout at your own pace while still using QWERTY, until you are fast enough to do a gradual swap.<br>
 - 2 weeks: I could write adequately with the new layout. Slow but steady. With pretty heavy practice.<br>
 - 2 months: I mastered my first version about as good as QWERTY, but I practiced somewhat intensely.<br>

@@ -15,6 +15,11 @@ This example layout is optimized for 50% English and 50% Finnish language, but t
 <br>
 ![Example](./Finger_stress_example.png)<br>
 <br>
+Personal experiences:<br>
+- Learning a new layout can take time, but it is worth it:<br>
+
+
+
 To make your own keyboard layout, you may use these applications/methods:<br>
 - Mac OS X: &nbsp; Ukelele<br>
 - Windows:  &nbsp;&nbsp; Microsoft Keyboard Layout Creator<br>

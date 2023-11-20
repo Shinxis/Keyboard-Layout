@@ -29,3 +29,4 @@ Personal experiences:<br>
 - 2 months+: My speed kept on developing to greater than it ever was with QWERTY.<br>
 - The later iterations of the layout felt like taking a little longer, although the vowel-consonant split and the most used keys on home row helped. I didn't practice that much.<br>
 - The asymmetric key grid felt annoying with QWERTY, but with the new layout it is barely noticeable, because most of the typing is done on the home row.<br>
+<br>

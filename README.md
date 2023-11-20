@@ -16,22 +16,17 @@ This example layout is optimized for 50% English and 50% Finnish language, but t
 ![Example](./Finger_stress_example.png)<br>
 <br>
 To make your own keyboard layout, you may use these applications/methods:<br>
-- Mac OS X: Ukelele<br>
-- Windows: Microsoft Keyboard Layout Creator<br>
-- Linux: Edit text files in /usr/share/X11/xkb/symbols/<br>
-- iOS: MyKeyboard / MyKeyboard Pro by Quintschaf GbR (paid App, under 10 eur, but well worth it)<br>
-<br>
-Experiences: Learning a new layout can take time, but it is worth it:<br>
-- The layouts do NOT get mixed up. It's like two different languages. You can even practice the new layout at your own pace while still using QWERTY, until you are fast enough to do a gradual swap. &nbsp; <br>
-- 2 weeks: I could write adequately with the new layout. Slow but steady. With pretty heavy practice.<br>
-- 2 months: I mastered my first version about as good as QWERTY, but I practiced somewhat intensely.<br>
-- 2 months+: My speed kept on developing to greater than it ever was with QWERTY.<br>
-- The later iterations of the layout felt like taking a little longer, although the vowel-consonant split and the most used keys on home row helped. I didn't practice that much.<br>
-- The asymmetric key grid felt annoying with QWERTY, but with the new layout it is barely noticeable, because most of the typing is done on the home row.
-
-To make your own keyboard layout, you may use these applications/methods:<br>
 - Mac OS X: &nbsp; Ukelele<br>
 - Windows:  &nbsp;&nbsp; Microsoft Keyboard Layout Creator<br>
 - Linux:    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Edit text files in /usr/share/X11/xkb/symbols/<br>
 - iOS:      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MyKeyboard / MyKeyboard Pro by Quintschaf GbR (paid App, under 10 eur, but well worth it)<br>
 <br>
+
+<br>
+Experiences: Learning a new layout can take time, but it is worth it:<br>
+- The layouts do NOT get mixed up. It's like two different languages. You can even practice the new layout at your own pace while still using QWERTY, until you are fast enough to do a gradual swap.<br>
+- 2 weeks: I could write adequately with the new layout. Slow but steady. With pretty heavy practice.<br>
+- 2 months: I mastered my first version about as good as QWERTY, but I practiced somewhat intensely.<br>
+- 2 months+: My speed kept on developing to greater than it ever was with QWERTY.<br>
+- The later iterations of the layout felt like taking a little longer, although the vowel-consonant split and the most used keys on home row helped. I didn't practice that much.<br>
+- The asymmetric key grid felt annoying with QWERTY, but with the new layout it is barely noticeable, because most of the typing is done on the home row.<br>

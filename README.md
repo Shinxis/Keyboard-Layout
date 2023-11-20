@@ -26,7 +26,7 @@ Personal experiences:<br>
 - The layouts do NOT get mixed up. It's like two different languages. You can even practice the new layout at your own pace while still using QWERTY, until you are fast enough to do a gradual swap.<br>
 - 2 weeks: I could write adequately with the new layout. Slow but steady. With pretty heavy practice.<br>
 - 2 months: I mastered my first version about as good as QWERTY, but I practiced somewhat intensely.<br>
-- 2 months+: My speed kept on developing to greater than it ever was with QWERTY.<br>
-- The later iterations of the layout felt like taking a little longer, although the vowel-consonant split and the most used keys on home row helped. I didn't practice that much.<br>
-- The asymmetric key grid felt annoying with QWERTY, but with the new layout it is barely noticeable, because most of the typing is done on the home row.<br>
+- 2 months+: My speed kept on developing to greater than what it ever was with QWERTY.<br>
+- The later iterations of the layout felt like taking a little longer, although the vowel-consonant split and the most used keys on home row helped. I didn't practice much.<br>
+- The asymmetrical key grid felt annoying with QWERTY, but with the new layout it is barely noticeable, because most of the typing is done on the home row.<br>
 <br>

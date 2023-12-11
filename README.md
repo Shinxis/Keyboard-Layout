@@ -16,9 +16,10 @@ This example layout is optimized for 50% English and 50% Finnish language, but t
 ![Example](./Finger_stress_example.png)<br>
 <br>
 To make your own keyboard layout, you may use these applications/methods:<br>
-- Mac OS X: &nbsp; Ukelele. Layout file here: [./Layout-files/Shinxis-OSX.keylayout](./Shinxis-OSX.keylayout). <br>
+- Mac OS X: &nbsp; Ukelele. Layout file here: [Shinxis-OSX.keylayout](./Layout-files/Shinxis-OSX.keylayout). <br>
 - Windows:  &nbsp;&nbsp; Microsoft Keyboard Layout Creator<br>
-- Linux:    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Edit text files in /usr/share/X11/xkb/symbols/<br>
+- Linux:    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Edit text files in /usr/share/X11/xkb/symbols/ <br>
+
 - iOS:      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MyKeyboard / MyKeyboard Pro by Quintschaf GbR (paid App, under 10 eur, but well worth it)<br>
 <br>
 Personal experiences:<br>

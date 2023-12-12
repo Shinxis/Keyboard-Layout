@@ -16,9 +16,12 @@ This example layout is optimized for 50% English and 50% Finnish language, but t
 ![Example](./Finger_stress_example.png)<br>
 <br>
 To make your own keyboard layout, you may use these applications/methods:<br>
-- Mac OS X: &nbsp; Ukelele. Example here: [Shinxis-OSX.keylayout](./Layout-files/Shinxis-OSX.keylayout). <br>
-- Windows:  &nbsp;&nbsp; Microsoft Keyboard Layout Creator<br>
-- Linux:    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Edit text files in /usr/share/X11/xkb/symbols/. 
+Mac OS X:&nbsp; <br>
+- Ukelele. Example here: [Shinxis-OSX.keylayout](./Layout-files/Shinxis-OSX.keylayout). <br>
+Windows: <br>
+- Microsoft Keyboard Layout Creator<br>
+Linux: <br>
+- Edit text files in /usr/share/X11/xkb/symbols/. 
   Example here: [Ubuntu layout files](./Layout-files/Ubuntu-Layout--usr-share-X11-xkb-symbols)<br>
   Edited existing Finnish (Macintosh) layout in 'fi' file and swapped WIN and CONTROL in 'pc' file. <br>
   Still missing QWERTY-style Copy & Paste next to Z, X in place of scandinavian AE, OE. <br>

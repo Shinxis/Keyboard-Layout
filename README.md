@@ -26,7 +26,7 @@ To make your own keyboard layout, you may use these applications/methods:<br>
 &nbsp;&nbsp;  Still missing QWERTY-style Copy & Paste next to Z, X in place of scandinavian AE, OE. <br>
 - iOS: <br>
 &nbsp;&nbsp; MyKeyboard / MyKeyboard Pro by Quintschaf GbR (paid App, under 10 eur, but well worth it)<br>
-Example here: [Ubuntu layout files](./Layout-files/Shinxis%20Bundle.kbl) <br>
+Example here: [Shinxis Bundle.kbl](./Layout-files/Shinxis%20Bundle.kbl) <br>
 <br>
 Personal experiences:<br>
 - Learning a new layout can take time, but it is worth it.<br>

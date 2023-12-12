@@ -20,9 +20,8 @@ To make your own keyboard layout, you may use these applications/methods:<br>
 - Windows:  &nbsp;&nbsp; Microsoft Keyboard Layout Creator<br>
 - Linux:    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Edit text files in /usr/share/X11/xkb/symbols/. 
   Example here: [Ubuntu layout files](./Layout-files/Ubuntu-Layout--usr-share-X11-xkb-symbols)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
   Edited existing Finnish (Macintosh) layout in 'fi' file and swapped WIN and CONTROL in 'pc' file. <br>
-            Still missing QWERTY-style Copy & Paste next to Z, X in place of scandinavian AE, OE. <br>
+  Still missing QWERTY-style Copy & Paste next to Z, X in place of scandinavian AE, OE. <br>
 - iOS:      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MyKeyboard / MyKeyboard Pro by Quintschaf GbR (paid App, under 10 eur, but well worth it)<br>
 <br>
 Personal experiences:<br>

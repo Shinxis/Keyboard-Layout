@@ -16,9 +16,9 @@ This example layout is optimized for 50% English and 50% Finnish language, but t
 ![Example](./Finger_stress_example.png)<br>
 <br>
 To make your own keyboard layout, you may use these applications/methods:<br>
-Mac OS X:&nbsp; <br>
+Mac OS X:
 - Ukelele. Example here: [Shinxis-OSX.keylayout](./Layout-files/Shinxis-OSX.keylayout). <br>
-Windows: <br>
+Windows:
 - Microsoft Keyboard Layout Creator<br>
 Linux: <br>
 - Edit text files in /usr/share/X11/xkb/symbols/. 

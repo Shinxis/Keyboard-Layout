@@ -17,7 +17,7 @@ This example layout is optimized for 50% English and 50% Finnish language, but t
 <br>
 To make your own keyboard layout, you may use these applications/methods:<br>
 - Mac OS X: <br>
-&nbsp;&nbsp; Ukelele. Example here: [Shinxis-OSX.keylayout](./Layout-files/Shinxis-OSX.keylayout). <br>
+&nbsp;&nbsp; Ukelele. Example here: [Shinxis.keylayout](./Layout-files/Shinxis.keylayout). <br>
 - Windows: <br>
 &nbsp;&nbsp; Microsoft Keyboard Layout Creator<br>
 - Linux: <br>
@@ -26,7 +26,7 @@ To make your own keyboard layout, you may use these applications/methods:<br>
 &nbsp;&nbsp;  Still missing QWERTY-style Copy & Paste next to Z, X in place of scandinavian AE, OE. <br>
 - iOS: <br>
 &nbsp;&nbsp; MyKeyboard / MyKeyboard Pro by Quintschaf GbR (paid App, under 10 eur, but well worth it)<br>
-Example here: [Shinxis Bundle.kbl](./Layout-files/Shinxis%20Bundle.kbl) <br>
+&nbsp;&nbsp; Example here: [Shinxis Bundle.kbl](./Layout-files/Shinxis%20Bundle.kbl) <br>
 <br>
 Personal experiences:<br>
 - Learning a new layout can take time, but it is worth it.<br>
